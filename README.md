@@ -8,7 +8,7 @@ The concurrency game project aims to exhibit different features of an applicatio
 4. Copy all files from the "desktop" folder into the generated desktop project
 Note: All tests created using JUnit 4.0
 
-### Download link to built project
+### Download link to built project:
 [Google Drive](https://drive.google.com/file/d/1Mn5ZfavA3z6SN02Wuqu6qbcWXLaiWEa8/view?usp=sharing)
 
 ### Installation Instructions:
