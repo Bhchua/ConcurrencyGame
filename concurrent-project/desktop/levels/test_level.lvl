@@ -1,0 +1,10 @@
+background black_boarder.png
+center 0 0
+size 1536 1536
+veg -128 -128 32 32 flower
+veg -128 -256 32 32 grass
+struct 0 600 192 128 house_1 true
+spawner 0 -256 5000
+struct 0 480 128 64 h_border false
+struct -240 240 64 128 v_border false
+struct 0 256 128 128 fountain true

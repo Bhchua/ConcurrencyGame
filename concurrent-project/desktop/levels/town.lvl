@@ -1,0 +1,67 @@
+background black_boarder.png
+center 0 0
+size 1536 1536
+
+veg -128 -128 32 32 flower
+veg -90 -80 32 32 flower
+veg -546 -234 32 32 flower
+veg -500 -100 32 32 flower
+veg -645 -643 32 32 flower
+veg 128 -128 32 32 flower
+veg 123 -456 32 32 flower
+veg 421 -786 32 32 flower
+veg 546 -412 32 32 flower
+veg 643 -547 32 32 flower
+veg 128 236 32 32 flower
+veg 512 500 32 32 flower
+veg 612 321 32 32 flower
+veg 232 512 32 32 flower
+veg -128 155 32 32 flower
+veg -198 89 32 32 flower
+veg -234 324 32 32 flower
+veg -412 687 32 32 flower
+veg -522 134 32 32 flower
+
+veg -200 -173 32 32 grass
+veg -128 -236 32 32 grass
+veg -512 -500 32 32 grass
+veg -612 -321 32 32 grass
+veg -232 -512 32 32 grass
+veg 128 128 32 32 grass
+veg 198 456 32 32 grass
+veg 234 786 32 32 grass
+veg 412 412 32 32 grass
+veg 522 547 32 32 grass
+veg 546 -512 32 32 grass
+veg 500 -432 32 32 grass
+veg 412 -687 32 32 grass
+veg 522 -134 32 32 grass
+veg -128 128 32 32 grass
+veg -123 456 32 32 grass
+veg -421 786 32 32 grass
+veg -546 412 32 32 grass
+veg -643 547 32 32 grass
+
+struct 0 -672 128 64 h_border false
+struct 0 672 128 64 h_border false
+struct 0 256 128 128 fountain true
+
+struct 160 704 192 128 house_1 true
+struct -160 704 192 128 house_1 true
+struct 160 -704 192 128 house_2 true
+struct -160 -704 192 128 house_2 true
+
+struct -320 256 128 192 house_3 true
+struct 320 256 128 192 house_4 true
+
+struct 544 0 192 128 house_1 true
+struct 544 -384 192 128 house_1 true
+struct 544 512 192 128 house_1 true
+struct -544 0 192 128 house_1 true
+struct -544 -384 192 128 house_1 true
+struct -544 512 192 128 house_1 true
+struct 0 -256 192 128 house_1 true
+
+spawner 0 -730 5000
+spawner 0 730 5000
+
