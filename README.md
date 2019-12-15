@@ -13,5 +13,6 @@ Note: All tests created using JUnit 4.0
 [Google Drive](https://drive.google.com/file/d/1Mn5ZfavA3z6SN02Wuqu6qbcWXLaiWEa8/view?usp=sharing)
 
 ### Installation Instructions:
-1. Extract all contents of zip to the same folder.
-2. Run game.jar
+1. Install [Java 8](https://java.com/en/download/manual.jsp)
+2. Extract all contents of zip to the same folder.
+3. Run game.jar
