@@ -1,5 +1,6 @@
 # ConcurrencyGame
 The concurrency game project aims to exhibit different features of an application such as menus and network connections using threads.
+No recorded file history due to the use of SVN as the chosen version control system during development.
 
 ### Setting up code for use in IDE:
 1. Download [LibGDX](https://libgdx.badlogicgames.com/)
